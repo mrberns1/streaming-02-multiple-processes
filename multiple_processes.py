@@ -51,8 +51,6 @@ without interfering with each other?
 # display useful information at the start of the program
 # f-strings make it easy to insert variables into strings
 info_message = f"""
-This course is already so much fun!
-"""
 
 STARTING UP.............................
 It's {datetime.date.today()} at {datetime.datetime.now().strftime("%I:%M %p")}

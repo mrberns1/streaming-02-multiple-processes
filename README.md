@@ -24,14 +24,14 @@ Executing multiple_processes.py script.
 Read the output. Read the code. 
 Try to figure out what's going on. 
 
-1. What libraries did we import?
-1. Where do we set the task_duration?
-1. How many functions are defined? 
-1. What are the function names? 
-1. In general, what does each function do? 
-1. Where does the execution begin?
-1. How many processes do we start?
-1. How many records does each process insert?
+1. What libraries did we import? sqlite3, time, multiprocessing, os, datetime, platform, sys
+1. Where do we set the task_duration? after defining global variable, after import and prior to setting a multi-line string.
+1. How many functions are defined? 7
+1. What are the function names? create_table, drop_table, insert_pet(process,name,breed), process_one, process_two, process_three, recreate_database 
+1. In general, what does each function do? create a blank table, drop the table but keep formatting, insert pets to the table within the formatting, processes are each animal, and rebuild the database with new configuration.
+1. Where does the execution begin? in python programs they generally begin at the end of the file.
+1. How many processes do we start? 3
+1. How many records does each process insert? 6
 
 In this first run, we start 3 processes, 
 each inserting 2 records into a shared database 
