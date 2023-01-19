@@ -31,7 +31,7 @@ Try to figure out what's going on.
 1. In general, what does each function do? create a blank table, drop the table but keep formatting, insert pets to the table within the formatting, processes are each animal, and rebuild the database with new configuration.
 1. Where does the execution begin? in python programs they generally begin at the end of the file.
 1. How many processes do we start? 3
-1. How many records does each process insert? 6
+1. How many records does each process insert? 2
 
 In this first run, we start 3 processes, 
 each inserting 2 records into a shared database 
@@ -95,15 +95,15 @@ Do a web search to find helpful videos on anything that seems confusing.
 Python has pretty helpful error messages. 
 When you get an error, read them carefully. 
 
-- What error do you get?
-- Can you tell what line it was executing when it failed?
+- What error do you get? database is locked
+- Can you tell what line it was executing when it failed? 95
 
 
 ## Database Is Locked Error
 
 Do a web search on the sqlite3 'database is locked' error.
 
-- What do you learn?
+- What do you learn? that if another process starts while the previous process is still running, it stops the process.
 - Once a process fails, it crashes the main process and everything stops. 
 
 ## Deadlock
