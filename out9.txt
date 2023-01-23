@@ -1,0 +1,114 @@
+Sent: b'[State, Race/Ethnicity, Age Group, First Year, Last Year, Rank, Cause of Death, Deaths]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 1, Unintentional Injury, 13947]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 10, Chronic Low. Respiratory Disease, 500]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 2, Congenital Anomalies, 4850]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 3, Homicide, 3796]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 4, Malignant Neoplasms, 3714]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 5, Heart Disease, 1548]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 6, Influenza & Pneumonia, 1130]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 7, Septicemia, 613]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 8, Perinatal Period, 536]' on port 9999.
+Sent: b'[United States, All Races,, 1-4 yrs, 2010, 2020, 9, Cerebrovascular, 532]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 1, Unintentional Injury, 8912]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 10, Benign Neoplasms, 368]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 2, Malignant Neoplasms, 4792]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 3, Suicide, 4739]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 4, Homicide, 1912]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 5, Congenital Anomalies, 1792]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 6, Heart Disease, 1197]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 7, Chronic Low. Respiratory Disease, 833]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 8, Influenza & Pneumonia, 533]' on port 9999.
+Sent: b'[United States, All Races,, 10-14 yrs, 2010, 2020, 9, Cerebrovascular, 526]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 1, Unintentional Injury, 138761]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 10, Cerebrovascular, 1852]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 2, Suicide, 59955]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 3, Homicide, 53003]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 4, Malignant Neoplasms, 16193]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 5, Heart Disease, 10382]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 6, Congenital Anomalies, 4263]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 7, Diabetes Mellitus, 2363]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 8, Influenza & Pneumonia, 2067]' on port 9999.
+Sent: b'[United States, All Races,, 15-24 yrs, 2010, 2020, 9, Chronic Low. Respiratory Disease, 1944]' on port 
+9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 1, Unintentional Injury, 229379]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 10, Influenza & Pneumonia, 5007]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 2, Suicide, 77767]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 3, Homicide, 54621]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 4, Malignant Neoplasms, 40034]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 5, Heart Disease, 38041]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 6, Liver Disease, 9428]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 7, Diabetes Mellitus, 8636]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 8, HIV, 6297]' on port 9999.
+Sent: b'[United States, All Races,, 25-34 yrs, 2010, 2020, 9, Cerebrovascular, 6156]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 1, Unintentional Injury, 215856]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 10, Influenza & Pneumonia, 9762]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 2, Malignant Neoplasms, 122256]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 3, Heart Disease, 116900]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 4, Suicide, 76855]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 5, Homicide, 33721]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 6, Liver Disease, 32589]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 7, Diabetes Mellitus, 23016]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 8, Cerebrovascular, 19687]' on port 9999.
+Sent: b'[United States, All Races,, 35-44 yrs, 2010, 2020, 9, HIV, 12356]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 1, Malignant Neoplasms, 469243]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 10, Influenza & Pneumonia, 24070]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 2, Heart Disease, 376512]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 3, Unintentional Injury, 245331]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 4, Liver Disease, 95112]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 5, Suicide, 93269]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 6, Diabetes Mellitus, 68526]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 7, Cerebrovascular, 59868]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 8, Chronic Low. Respiratory Disease, 46204]' on port 9999.
+Sent: b'[United States, All Races,, 45-54 yrs, 2010, 2020, 9, Septicemia, 26614]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 1, Unintentional Injury, 8131]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 10, Septicemia, 356]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 2, Malignant Neoplasms, 4653]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 3, Congenital Anomalies, 2019]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 4, Homicide, 1504]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 5, Heart Disease, 821]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 6, Chronic Low. Respiratory Disease, 728]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 7, Influenza & Pneumonia, 600]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 8, Cerebrovascular, 431]' on port 9999.
+Sent: b'[United States, All Races,, 5-9 yrs, 2010, 2020, 9, Benign Neoplasms, 373]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 1, Malignant Neoplasms, 1247060]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 10, Nephritis, 59194]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 2, Heart Disease, 842102]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 3, Unintentional Injury, 222330]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 4, Chronic Low. Respiratory Disease, 187229]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 5, Diabetes Mellitus, 155093]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 6, Liver Disease, 141430]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 7, Cerebrovascular, 133066]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 8, Suicide, 81926]' on port 9999.
+Sent: b'[United States, All Races,, 55-64 yrs, 2010, 2020, 9, Septicemia, 61016]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 1, Heart Disease, 5556218]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 10, Septicemia, 319704]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 2, Malignant Neoplasms, 4596246]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 3, Chronic Low. Respiratory Disease, 1410625]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 4, Cerebrovascular, 1312618]' on port 9999.
+Sent: b"[United States, All Races,, 65+ yrs, 2010, 2020, 5, Alzheimer's Disease, 1143702]" on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 6, Diabetes Mellitus, 628773]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 7, Unintentional Injury, 564503]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 8, Influenza & Pneumonia, 494367]' on port 9999.
+Sent: b'[United States, All Races,, 65+ yrs, 2010, 2020, 9, Nephritis, 447727]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 1, Congenital Anomalies, 51601]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 10, Neonatal Hemorrhage, 4400]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 2, Short Gestation, 42856]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 3, SIDS, 17162]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 4, Maternal Pregnancy Comp., 15903]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 5, Unintentional Injury, 13213]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 6, Placenta  Cord Membranes, 9730]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 7, Bacterial Sepsis, 6295]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 8, Respiratory Distress, 5105]' on port 9999.
+Sent: b'[United States, All Races,, <1 yrs, 2010, 2020, 9, Circulatory System Disease, 4958]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 1, Heart Disease, 6947373]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 10, Suicide, 480622]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 2, Malignant Neoplasms, 6504939]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 3, Unintentional Injury, 1660577]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 4, Chronic Low. Respiratory Disease, 1659778]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 5, Cerebrovascular, 1535962]' on port 9999.
+Sent: b"[United States, All Races,, All Ages, 2010, 2020, 6, Alzheimer's Disease, 1156241]" on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 7, Diabetes Mellitus, 886838]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 8, Influenza & Pneumonia, 593483]' on port 9999.
+Sent: b'[United States, All Races,, All Ages, 2010, 2020, 9, Nephritis, 543083]' on port 9999.
+
+What changes when you read a different CSV file: row names to ensure correct streaming. 

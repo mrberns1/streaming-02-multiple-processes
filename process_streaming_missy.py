@@ -16,9 +16,15 @@ socket_type = socket.SOCK_DGRAM
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) 
 
 
-input_file = open("Icd.csv", "r")
+input_file = open("lcd.csv", "r")
 
-reader = csv.reader(delimiter=",")
+# use the built0in sorted() function to get them in chronological order
+reversed = sorted(input_file)
+
+# create a csv reader for our comma delimited data
+reader = csv.reader(reversed, delimiter=",")
+
+reader = csv.reader(sorted(reversed),delimiter=",")
 
 for row in reader:
     
@@ -27,12 +33,12 @@ for row in reader:
 
     fstring_message = f"[{State}, {Race_Ethnicity}, {Age_Group}, {First_Year}, {Last_Year}, {Rank}, {Cause_of_Death}, {Deaths}]"
     
-    # prepare a binary (1s and 0s) message to stream
+
     MESSAGE = fstring_message.encode()
 
-    # use the socket sendto() method to send the message
+
     sock.sendto(MESSAGE, address_tuple)
     print (f"Sent: {MESSAGE} on port {port}.")
 
     # sleep for a few seconds
-    time.sleep(3)
+    time.sleep(1)
